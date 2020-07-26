@@ -1,4 +1,4 @@
-package com.example.reseptron.ui.notifications;
+package com.example.reseptron.ui.addition;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;

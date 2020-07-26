@@ -9,7 +9,7 @@
 
         <variable
             name="viewmodel"
-            type="com.example.reseptron.ui.notifications.AdditionViewModel" />
+            type="com.example.reseptron.ui.addition.AdditionViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
