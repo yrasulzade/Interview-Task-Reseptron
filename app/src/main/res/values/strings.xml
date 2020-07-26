@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reseptron</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">QR reader</string>
+    <string name="title_notifications">Calculator</string>
+    <string name="title_earthquake">Earthquake</string>
+
+    <string name="temp_1">%s°</string>
+    <string name="temp_2">%s°</string>
+    <string name="baku">baku</string>
+
+    <string name="iconUri">http://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="launch_map">Click to launch Map Activity</string>
+    <string name="read_qr">Click to read QR code</string>
+    <string name="title_activity_test">Map</string>
+    <string name="errorToast">Fill empty spaces</string>
+</resources>
